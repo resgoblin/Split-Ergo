@@ -10,9 +10,8 @@ Variants/Models: (I am only deeming a variant complete if I have personally veri
 | Model               | Status |
 | :-------------------| :----- |
 | Corne 5 Column Choc |  TBD   |
-| Corne 5 Column MX   |  TBD   |
 | Corne 6 Column Choc |  Done  |
-| Corne 6 Column MX   |  WIP   |
+| Corne 6 Column MX   |  Done  |
 | Lily58 Choc         |  TBD   |
 | Lily58 MX           |  TBD   |
 
