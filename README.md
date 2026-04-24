@@ -7,11 +7,11 @@ There are 2 versions of tenting that will be utilized, a 3 tier/setting foot and
 
 Variants/Models: (I am only deeming a variant complete if I have personally verified the fit)
 
-| Model               | Status |
-| :-------------------| :----- |
-| Corne 5 Column Choc |  TBD   |
-| Corne 6 Column Choc |  Done  |
-| Corne 6 Column MX   |  Done  |
-| Lily58 Choc         |  TBD   |
-| Lily58 MX           |  TBD   |
+| Model               | Status  |
+| :-------------------| :-----  |
+| Corne 5 Column Choc | Testing |
+| Corne 6 Column Choc |  Done   |
+| Corne 6 Column MX   | Testing |
+| Lily58 Choc         |  TBD    |
+| Lily58 MX           |  TBD    |
 
