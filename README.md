@@ -28,3 +28,5 @@ There are 2 versions of tenting that will be utilized, a 3 tier/setting foot and
 | 2x  | [Metal Ring](https://www.amazon.com/gp/product/B0DCB9RVTC) **       |
 
 ** Optional
+
+If you would like to take a swing at making your own, I have provided the OBJ files that I used as a reference to create these files. You may need to adjust the scale on import, in Fusion360 I set it to meter upon importing.
