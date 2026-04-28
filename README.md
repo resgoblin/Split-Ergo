@@ -12,7 +12,7 @@ There are 2 versions of tenting that will be utilized, a 3 tier/setting foot and
 | Corne 5 Column Choc |  Done   |
 | Corne 6 Column Choc |  Done   |
 | Corne 6 Column MX   |  Done   |
-| Lily58 Choc         | Testing |
+| Lily58 Choc         |  Done   |
 | Lily58 MX           |  Done   |
 
 ## Parts for assembly
